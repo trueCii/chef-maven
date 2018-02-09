@@ -4,7 +4,7 @@ maintainer_email 'sck049@gmail.com'
 license          'MIT'
 description      'Installs/Configures maven'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '0.2.4'
+version          '0.2.5'
 
 depends 'tar', '~> 2.1.1'
 
@@ -15,3 +15,5 @@ supports 'centos'
 supports 'debian'
 supports 'redhat'
 supports 'ubuntu'
+
+chef_version '>= 12.1' if respond_to?(:chef_version)
