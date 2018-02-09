@@ -1,5 +1,4 @@
 # chef-maven Cookbook
-=====
 
 [![Build Status](https://travis-ci.org/trueCii/chef-maven.svg?branch=master)](https://travis-ci.org/trueCii/chef-maven)
 
