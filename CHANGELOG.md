@@ -2,6 +2,9 @@
 
 This file is used to list changes made in each version of the maven cookbook.
 
+## 0.2.6
+- Add travis tests
+
 ## 0.2.5
 - Fix FC066
 
