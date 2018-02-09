@@ -1,6 +1,9 @@
-# maven CHANGELOG
+# chef-maven CHANGELOG
 
 This file is used to list changes made in each version of the maven cookbook.
+
+## 0.2.3
+- added TESTING.md file
 
 ## 0.2.3
 - added test cases, code cleanup
