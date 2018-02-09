@@ -1,4 +1,7 @@
 # chef-maven Cookbook
+=====
+
+[![Build Status](https://travis-ci.org/trueCii/chef-maven.svg?branch=master)](https://travis-ci.org/trueCii/chef-maven)
 
 Installs and configures Apache Maven. This cookbook doesn't install Java. Make sure to install java for this cookbook to work properly. Look the public [Java Cookbook](https://supermarket.chef.io/cookbooks/java) for more details
 
